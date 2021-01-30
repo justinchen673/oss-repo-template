@@ -24,3 +24,10 @@ original question.
 ![regex5](regex5.jpg)
 ![regex6](regex6.jpg)
 ![regex7](regex7.jpg)
+
+## Crossword Screenshots
+
+![cross1](cross1.jpg)
+![cross2](cross2.jpg)
+![cross3](cross3.jpg)
+![cross4](cross4.jpg)
