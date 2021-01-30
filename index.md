@@ -2,9 +2,9 @@
 ## Justin chen
 
 ## Bio
-Email: justinchenchen673@gmail.com
-Github Handle: justinchen673
-Discord Handle: justinchen673
+- Email: justinchenchen673@gmail.com
+- Github Handle: justinchen673
+- Discord Handle: justinchen673
 ![profile](profile.jpg)
 
 ## Lab Reports
