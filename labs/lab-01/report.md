@@ -26,7 +26,7 @@ released. If that functionality is core to the product, possibly speak with a
 legal expert to work on arranging some sort of terms of service that shift
 responsibility away from you should the product be abused. Again, in an ideal
 world this would not be necessary, but the system forces you to do so to protect
-yourself. 
+yourself.
 
 ## Tree Screenshot
 
@@ -52,3 +52,12 @@ yourself.
 ## Blockly Screenshot
 
 ![blockly](blockly.jpg)
+
+## Reflection
+
+I would like to evaluate Git, as it's an extremely common software piece that
+almost all developers use at some point in their lives. I think the most
+interesting aspect of it is how it can analyze and track changes to
+intelligently find conflicts, as well as the structures used with Git to track
+all different versions as well as their relative branches. Since it's a huge
+open source project, I think it would be best to focus on specific features.
