@@ -8,4 +8,5 @@
 ![profile](profile.jpg)
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+- [Lab 1](labs/lab-01/report.md)
+- [Lab 2](labs/lab-02/Lab02.md)
