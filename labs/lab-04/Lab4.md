@@ -47,11 +47,7 @@
 Website | License Present | License
 ---------|:----------|:-------
 https://github.com/cisprague/Astro.IQ/blob/master/LICENSE | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
----------|:----------|:-------
 https://github.com/scottnotfound/clara | Yes | Apache License 2.0 https://en.wikipedia.org/wiki/Apache_License
----------|:----------|:-------
 https://github.com/joeiaquinto/drops | Yes | Apache License 2.0 https://en.wikipedia.org/wiki/Apache_License
----------|:----------|:-------
 https://github.com/rpitv/glimpse-ui | Yes | GNU General Public License v3.0 https://en.wikipedia.org/wiki/GNU_General_Public_License
----------|:----------|:-------
 https://github.com/alexistj/HomeAway/blob/master/LICENSE | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License
