@@ -25,3 +25,11 @@
 - [CMakeLists.txt](CMakeLists_Step5.txt)
 - [MathFunctions/CMakeLists.txt](MathFunctions_CMakeLists_Step5.txt)
 - ![step5](step5.png)
+
+## Part 2
+
+- [Manually created makefile](makefile)
+- [CMakeLists.txt](CMakeLists_Part2.txt)
+- [CMake created makefile](Makefile_cmake)
+- ![sizes](sizes.png)
+- ![staticshared](staticshared.png)

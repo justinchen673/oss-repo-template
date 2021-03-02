@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.5.1)
+
+# set the project name and version
+project(Cmake VERSION 1.0)
+
+# specify the C++ standard
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+add_library(StaticLib STATIC source/block.c)
+add_library(SharedLib SHARED source/block.c)
+
+# add the executable
+add_executable(Shared program.c)
+target_link_libraries(Shared SharedLib)
+
+add_executable(Static program.c)
+target_link_libraries(Static StaticLib)
