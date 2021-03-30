@@ -45,8 +45,8 @@ and the current version year is 2021.
 ## Checkpoint 4
 
 - [Repo](https://github.com/justinchen673/Lab7Checkpoint4)
-![check4_1](check4_1.png)
-![check4_2](check4_2.png)
+- ![check4_1](check4_1.png)
+- ![check4_2](check4_2.png)
 
 ## Checkpoint 5
 
