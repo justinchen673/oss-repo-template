@@ -2,7 +2,7 @@
 
 ## Checkpoint 1
 
-[check1](check1.png)
+![check1](check1.png)
 
 ## Checkpoint 2
 
@@ -25,13 +25,13 @@
 - Are there errors in your submission? If so, are they consistent?
 	- There are no errors.
 
-[1](check2_1.png)
-[2](check2_2.png)
-[3](check2_3.png)
+![1](check2_1.png)
+![2](check2_2.png)
+![3](check2_3.png)
 
 ## Checkpoint 3
 
-[check3](check3_1.png)
+![check3](check3_1.png)
 
 - I found the error cause by looking at the test. The issue was that the
 following text wasn't included:
@@ -40,4 +40,4 @@ Copyright 2000-2021 Kitware, Inc. and Contributors
 and the current version year is 2021.
 ```
 
-[check3_2](check3_2.png)
+![check3_2](check3_2.png)
