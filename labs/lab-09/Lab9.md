@@ -47,7 +47,7 @@ def fetchOne(collection):
 fetchOne(defs)
 ```
 #### Output
-![fetchOne][fetchOne.png]
+![fetchOne](fetchOne.png)
 
 ### Fetch Specific
 #### Code
