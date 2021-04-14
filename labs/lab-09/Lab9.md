@@ -1,5 +1,9 @@
 # Lab 9
 
+## Checkpoint 0
+
+[Blog Post](https://rcos.io/projects/justinchen673/royal-flush/blog)
+
 ## Checkpoint 1
 
 ![1_1](ck1_1.png)
@@ -19,6 +23,8 @@ updated definitions.
 ![3_3](ck3_3.png)
 
 ## Checkpoint 4
+
+[Forked checkpoint4.py](https://github.com/justinchen673/mongodb_lab/blob/master/checkpoint4.py)
 
 ### Fetch All
 #### Code
@@ -78,6 +84,9 @@ insertRecord({"word": "Bubly", "definition": "Greatest sparkling water"}, defs)
 
 
 ## Checkpoint 5
+
+[Forked checkpoint5.py](https://github.com/justinchen673/mongodb_lab/blob/master/checkpoint5.py)
+
 
 ```python
 import datetime
